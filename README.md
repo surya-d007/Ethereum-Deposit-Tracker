@@ -16,6 +16,7 @@ This project tracks and records ETH deposits to the Beacon Deposit Contract on t
 1. Clone the repository.
 2. Run `npm install` to install dependencies.
 3. Create a `.env` file with the following variables:
+4. Run `node start` to run Node js 
 
 ```bash
 ALCHEMY_API_KEY=<YOUR_ALCHEMY_API_KEY>
